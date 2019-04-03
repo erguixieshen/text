@@ -29,4 +29,17 @@ public class xueqiu {
         driver.getCurrentDriver().findElementByAccessibilityId("立即开户").click();
         //driver.getCurrentDriver().findElementByAccessibilityId("开始").click();
     }
+    @ParameterizedTest
+    @CsvSource({
+            "1",
+    })
+    public void context() throws InterruptedException {
+        driver.getCurrentDriver().findElementByXPath("//android.widget.TextView[@text='沪深' and @resource-id='com.xueqiu.android:id/button_text']").click();
+        Thread.sleep(3000);
+        for(Object c:driver.getCurrentDriver().getContextHandles()){
+            System.out.println(c.toString());
+        }
+        driver.getCurrentDriver().context("WEBVIEW_com.xueqiu.android");
+        System.out.println(driver.getCurrentDriver().getPageSource());
+    }
 }

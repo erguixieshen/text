@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b37b38d-f364-4ade-94cf-569e014dbf06" name="Default Changelist" comment="" />
+    <list default="true" id="0b37b38d-f364-4ade-94cf-569e014dbf06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/driver/apidriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/page/apipage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apidemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/driver/driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/driver/driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/xueqiu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/xueqiu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/driver/driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/xueqiu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/xueqiu.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,39 +38,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/searchTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="22" column="6" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/xueqiu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="540">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/driver/driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="71" />
-              <folding>
-                <element signature="e#1383#1384#0" expanded="true" />
-                <element signature="e#1412#1413#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,10 +62,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/page/LoginPage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/driver/driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="81">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/driver/apidriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,8 +88,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/page/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="13" column="45" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="45" />
+            <state>
+              <caret selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/page/apipage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,8 +127,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="270">
               <caret line="19" column="46" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/apidemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,12 +159,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/searchTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/xueqiu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/driver/driver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/page/apipage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/driver/apidriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/apidemo.java" />
       </list>
     </option>
   </component>
@@ -230,23 +258,28 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
             <path>
-              <item name="_2-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2-master" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="_2-master" type="58d84e3e:PackageViewProjectNode" />
+              <item name="2" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554272298258" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554285450602" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -264,7 +297,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.xueqiu.xueqiu">
+  <component name="RunManager" selected="JUnit.apidemo.apidemo">
+    <configuration name="apidemo.apidemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="apidemo" />
+      <option name="METHOD_NAME" value="apidemo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="searchTest.seachTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="2" />
       <option name="PACKAGE_NAME" value="" />
@@ -284,11 +327,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xueqiu.webview" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="xueqiu.context" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="2" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="xueqiu" />
-      <option name="METHOD_NAME" value="webview" />
+      <option name="METHOD_NAME" value="context" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -304,25 +347,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xueqiu.webview" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="xueqiu" />
-      <option name="METHOD_NAME" value="webview" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.apidemo.apidemo" />
+        <item itemvalue="JUnit.xueqiu.context" />
         <item itemvalue="JUnit.xueqiu.xueqiu" />
         <item itemvalue="JUnit.xueqiu" />
         <item itemvalue="JUnit.searchTest.seachTest" />
-        <item itemvalue="JUnit.xueqiu.webview" />
-        <item itemvalue="TestNG.xueqiu.webview" />
       </list>
     </recent_temporary>
   </component>
@@ -339,49 +370,51 @@
       <workItem from="1554260737721" duration="3746000" />
       <workItem from="1554264508066" duration="904000" />
       <workItem from="1554265439705" duration="924000" />
-      <workItem from="1554266391201" duration="3392000" />
+      <workItem from="1554266391201" duration="12098000" />
+      <workItem from="1554281643974" duration="2534000" />
+      <workItem from="1554284944299" duration="506000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 51m 10s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="xueqiu_context - 2019.04.03 at 15h 25m 37s.xml">
+      <configuration name="xueqiu.context" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 52m 16s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="xueqiu_context - 2019.04.03 at 15h 26m 39s.xml">
+      <configuration name="xueqiu.context" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 52m 42s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="apidemo_apidemo - 2019.04.03 at 16h 26m 45s.xml">
+      <configuration name="apidemo.apidemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 53m 35s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="apidemo_apidemo - 2019.04.03 at 16h 27m 15s.xml">
+      <configuration name="apidemo.apidemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 54m 09s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="apidemo_apidemo - 2019.04.03 at 17h 09m 18s.xml">
+      <configuration name="apidemo.apidemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 54m 30s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="apidemo_apidemo - 2019.04.03 at 17h 22m 14s.xml">
+      <configuration name="apidemo.apidemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 55m 02s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="apidemo_apidemo - 2019.04.03 at 17h 22m 39s.xml">
+      <configuration name="apidemo.apidemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 56m 00s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="apidemo_apidemo - 2019.04.03 at 17h 23m 27s.xml">
+      <configuration name="apidemo.apidemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 57m 21s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="apidemo_apidemo - 2019.04.03 at 17h 23m 49s.xml">
+      <configuration name="apidemo.apidemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="xueqiu_xueqiu - 2019.04.03 at 13h 57m 59s.xml">
-      <configuration name="xueqiu.xueqiu" configurationId="JUnit" />
+    <history-entry file="apidemo_apidemo - 2019.04.03 at 17h 27m 30s.xml">
+      <configuration name="apidemo.apidemo" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8966000" />
+    <option name="totallyTimeSpent" value="20712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.24617068" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.2964989" />
       <window_info id="Structure" order="1" sideWeight="0.5008157" side_tool="true" weight="0.2428884" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -390,17 +423,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33406353" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32968238" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3263965" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32822758" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32968238" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.33296824" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24945295" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -431,13 +464,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/driver/driver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/page/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="71" />
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xueqiu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding>
-            <element signature="e#1383#1384#0" expanded="true" />
-            <element signature="e#1412#1413#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -452,27 +491,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/page/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/driver/driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="81">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/page/searchPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/driver/apidriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/page/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/page/apipage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -483,21 +535,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/page/MainPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/page/searchPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/xueqiu.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="270">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/apidemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
